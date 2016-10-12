@@ -1,14 +1,15 @@
 {
-  "name": "test",
+  "name": "xue",
   "version": "1.0.0",
-  "description": "\"\"",
-  "main": "hello.js",
+  "description": " ",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "morgan": "^1.7.0"
+    "express": "^4.14.0",
+    "utility": "^1.8.0"
   }
 }
