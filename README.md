@@ -3,7 +3,7 @@
 
 1. app.js 是我写的第一个node程序，可以获取当前网址的参数 q 并转换为输出其参数值得 md5 值
 2. appLesson3.js 是一个简单爬虫，使用 superagent 与 cheerio ,能够输出 CNode 首页的标题、链接和作者
-3. appLesson4.js
+3. appLesson4.js 是一个处理控制并发的程序，为异步操作提供了解决办法，使用到了eventproxy
 
 
 
